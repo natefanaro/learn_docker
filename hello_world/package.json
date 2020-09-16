@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "The best way to say hello to the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"All tests pass\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natefanaro/learn_docker.git"
+  },
+  "author": "Nate Fanaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natefanaro/learn_docker/issues"
+  },
+  "homepage": "https://github.com/natefanaro/learn_docker/issues",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
